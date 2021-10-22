@@ -21,7 +21,7 @@ another example of cell image segmentation is https://github.com/ugent-korea/pyt
 Medical image segmentaton library https://github.com/ELEKTRONN/elektronn3
 
 
-Unet segmenattion on car https://github.com/milesial/Pytorch-UNet
+Unet semantic segmenattion on car https://github.com/milesial/Pytorch-UNet
 
 
  

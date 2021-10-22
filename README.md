@@ -18,6 +18,7 @@ use other networks as encoder and decoder of U-net https://github.com/hayashimas
 another example of cell image segmentation is https://github.com/ugent-korea/pytorch-unet-segmentation
 
 
+Medical image segmentaton library https://github.com/ELEKTRONN/elektronn3
 
 
  

@@ -2,18 +2,23 @@
 
 Inspired by 
 
-https://www.youtube.com/watch?v=81AvQQnpG4Q
-
-or
-
-https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
-
-and
-
-https://github.com/hayashimasa/UNet-PyTorch
+https://towardsdatascience.com/creating-and-training-a-u-net-model-with-pytorch-for-2d-3d-semantic-segmentation-model-building-6ab09d6a0862
 
 
-https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
+https://www.youtube.com/watch?v=81AvQQnpG4Q   or https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
 
 
-If you data labeling is tedious for you, use https://github.com/hanyoseob/pytorch-UNET
+
+here there are different types of U-net for segmentation https://github.com/bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets
+
+If you data labeling is tedious for you, use https://github.com/hanyoseob/pytorch-UNET  
+
+use other networks as encoder and decoder of U-net https://github.com/hayashimasa/UNet-PyTorch and  https://github.com/hanyoseob/pytorch-UNET
+
+another example of cell image segmentation is https://github.com/ugent-korea/pytorch-unet-segmentation
+
+
+
+
+ 
+

@@ -14,3 +14,6 @@ https://github.com/hayashimasa/UNet-PyTorch
 
 
 https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
+
+
+If you data labeling is tedious for you, use https://github.com/hanyoseob/pytorch-UNET

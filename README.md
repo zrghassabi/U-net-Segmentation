@@ -27,6 +27,7 @@ Unet semantic segmenattion on car https://github.com/milesial/Pytorch-UNet
 retina vessel segmentation https://github.com/orobix/retina-unet
 
 Before training, training datasets are pre-processed with the following transformations:
+https://github.com/orobix/retina-unet/blob/master/lib/pre_processing.py
 
 Gray-scale conversion
 Standardization

@@ -24,5 +24,14 @@ Medical image segmentaton library https://github.com/ELEKTRONN/elektronn3
 Unet semantic segmenattion on car https://github.com/milesial/Pytorch-UNet
 
 
+retina vessel segmentation https://github.com/orobix/retina-unet
+
+Before training, training datasets are pre-processed with the following transformations:
+
+Gray-scale conversion
+Standardization
+Contrast-limited adaptive histogram equalization (CLAHE)
+Gamma adjustment
+
  
 

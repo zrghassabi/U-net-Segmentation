@@ -23,6 +23,7 @@ Medical image segmentaton library https://github.com/ELEKTRONN/elektronn3
 
 Unet semantic segmenattion on car https://github.com/milesial/Pytorch-UNet
 
+https://github.com/yassouali/pytorch-segmentation
 
 retina vessel segmentation https://github.com/orobix/retina-unet
 

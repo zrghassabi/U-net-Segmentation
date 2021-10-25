@@ -39,3 +39,7 @@ Gamma adjustment
 retinal vessel segmentation: https://paperswithcode.com/task/retinal-vessel-segmentation
 
 
+https://github.com/jvanvugt/pytorch-unet
+
+https://www.kaggle.com/mahedi61/unet-based-segmentation/notebook?scriptVersionId=71148653
+
